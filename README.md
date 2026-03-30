@@ -62,6 +62,12 @@
 | <img src="Resourse\Screenshot 2026-03-30 201159.png" width="500"> |
 
 
+| Check point exam |  |
+| :--- | :--- |
+| **[CP352005 2/25] CCNA1: Introduction to Networks** 
+| <img src="Resourse\Screenshot 2026-03-30 204451.png" width="500"> |
+
+
 ---
 
 ## 🛠 Skills & Tools Used
