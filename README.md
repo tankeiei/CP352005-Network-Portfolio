@@ -26,7 +26,7 @@
 ## 👥 งานกลุ่มและห้องปฏิบัติการ (Group Assignments & Labs)
 
 ### 🛠️ Group Labs
-| Lab No. | รายชื่อปฏิบัติการ (Lab Title) 
+| Lab No. | รายชื่อปฏิบัติการ (Lab Title) | ลิงก์ผลงาน |
 | :---: | :--- | :--- |
 | 1 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
 | 2 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
@@ -53,8 +53,8 @@
 ## 📜 Certificates & Achievements
 | หลักสูตร / ใบเซอร์ (Certificate Name) | ตัวอย่างภาพใบประกาศ |
 | :--- | :--- |
-| **Cisco: Introduction to Cybersecurity** | <img src="ลิงก์รูปภาพหรือPathไฟล์" width="300"> |
-| **[ชื่อใบเซอร์อื่นๆ ของคุณ]** | <img src="ลิงก์รูปภาพหรือPathไฟล์" width="300"> |
+| **Cisco: Introduction to Cybersecurity** | <img src="URL_หรือ_Path_ของรูป" width="350"> |
+| **[ชื่อใบเซอร์อื่นๆ ของคุณ]** | <img src="URL_หรือ_Path_ของรูป" width="350"> |
 
 ---
 
