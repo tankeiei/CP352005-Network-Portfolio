@@ -43,10 +43,9 @@
 ---
 
 ## 🏆 Final Project
-| หัวข้อ (Topic) | รายละเอียดโปรเจกต์ (Details) | สถานะ / ลิงก์ |
+| หัวข้อ (Topic) | รายละเอียดโปรเจกต์ (Details) | ลิงก์ |
 | :--- | :--- | :--- |
 | **Project Title** | [ระบุชื่อโปรเจกต์จบรายวิชา] | ⏳ กำลังดำเนินการ |
-| **Tools Used** | [เช่น Python, Cisco Packet Tracer, SQL] | [Link To Repo] |
 
 ---
 
