@@ -5,13 +5,13 @@
 
 ---
 
-## 📑 รายการงานรายบุคคล (Personal Assignments)
-| ลำดับ | หัวข้องาน (Topic) | ลิงก์รายงาน / ผลงาน |
+## 📑 Personal Assignments
+| Assignments no. | หัวข้องาน (Topic) | ลิงก์ผลงาน |
 | :---: | :--- | :--- |
-| 1 | Essay about Network Concepts | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
-| 2 | IP Addressing & Subnetting | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
-| 3 | Network Configuration Lab | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
-| 4 | [ระบุชื่องานเพิ่มเติม] | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
+| 1 | Personal Essay  | [คลิกเพื่อดูงาน](https://docs.google.com/document/d/1LF7i28HaAfsSxJaZQHrf7eYRSDEy32vmVkum97kiWZ0/edit?usp=sharing) |
+| 2 | Assignments 2 | [คลิกเพื่อดูงาน](https://docs.google.com/document/d/1BuoNqmKvLrJeH1EKXDHjagqNQmOp1yRrdh6m3SKHMjQ/edit?usp=sharing) |
+| 3 | Assignments 3 | [คลิกเพื่อดูงาน](https://docs.google.com/document/d/1JPBoJk458PuoQP4slDZb2RDwQt11FBVgu_KBRMPxpWo/edit?usp=sharing) |
+| 4 | Assignments 4 | [คลิกเพื่อดูงาน](https://docs.google.com/document/d/1mop6iC2WHyVi4besQpLb2kQ7wtNVx2AhfSt80_BSu9Q/edit?usp=sharing) |
 
 ---
 
@@ -28,32 +28,36 @@
 ### 🛠️ Group Labs
 | Lab No. | รายชื่อปฏิบัติการ (Lab Title) | ลิงก์ผลงาน |
 | :---: | :--- | :--- |
-| 1 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
-| 2 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
-| 3 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
-| 4 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
+| 1 | Complete Lab-Focused Teaching Package | [คลิกเพื่อดู](https://docs.google.com/document/d/1oqGtlcZ23RfcoAmh7J8UIyy4ez55hrun_UrntW8NqAg/edit?usp=sharing) |
+| 2 | Secure & Scalable VLAN Design (Router-on-a-Stick) | [คลิกเพื่อดู](https://docs.google.com/document/d/1bFA9APAwBCsOpFJhOlSNbxDys74AXxjFP4qOcadhXrc/edit?fbclid=IwY2xjawO3PolleHRuA2FlbQIxMABicmlkETF0MlhMUkVQSmt2aVhvR05Bc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEoIx6iUN6ZVR4mulwv2AH5w-Cie80AwyZLbolLR7PQc2EyFdBRUYzp4dlE_aem_9jRi0m5jJVdWuxRy9Roj0w&tab=t.0) |
+| 3 | MIME File Transfer over Router-on-a-Stick with Wireshark Analysis | [คลิกเพื่อดู](https://docs.google.com/document/d/1f4ruHR8qC6pV63fiCZ2uI9psKrLqej3c8NhWxdt11gA/edit?usp=sharing) |
+| 4 | Simulated Internet (10.10.0.0/16) & Private LANs with Stateful vs Stateless Services | [คลิกเพื่อดู](https://docs.google.com/document/d/1IFeSFYEjTHPoRWvstWsnvtbRHp8uLUmtbv5R79g6G7k/edit?usp=sharing) |
 | 5 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
 
-### 📁 Group Assignment (Project)
-| หัวข้อ | รายละเอียด (Description) | ลิงก์รายงาน / ผลงาน |
-| :--- | :--- | :--- |
-| **Project Name** | [ระบุชื่อโปรเจกต์กลุ่ม] | [คลิกเพื่อดูงานกลุ่ม] |
-| **Task** | [อธิบายหน้าที่ของคุณในกลุ่มสั้นๆ] | - |
+
 
 ---
 
 ## 🏆 Final Project
-| หัวข้อ (Topic) | รายละเอียดโปรเจกต์ (Details) | ลิงก์ |
-| :--- | :--- | :--- |
-| **Project Title** | [ระบุชื่อโปรเจกต์จบรายวิชา] | ⏳ กำลังดำเนินการ |
+
+### 🌌 Interplanetary Network: Advanced Latency-Masking Video System
+> **ระบบต้นแบบเครือข่ายจำลองการส่งวิดีโอระหว่างดาวเคราะห์ (Mars-to-Earth)** เน้นการทดลองแก้ปัญหาความหน่วงสัญญาณ (Latency 5,000ms+)
+
+**📝 สรุปรายละเอียด:**
+- **AI & ML (RAFT & DAIN):** นำ Machine Learning เข้ามาช่วยทำ Frame Interpolation พยากรณ์และสร้างเฟรมภาพทดแทนช่วงที่สัญญาณดีเลย์
+- **Edge Computing:** ตั้งจุดประมวลผลระหว่างทาง (Lagrange Node) เพื่อรับภาระการดึงสัญญาณและประมวลผลล่วงหน้า
+- **ผลลัพธ์:** สามารถชดเชยเฟรมวิดีโอที่กระตุกจากปัญหาเครือข่าย ให้กลับมาแสดงผลลื่นไหล
+
+🔗 **ลิงก์ผลงาน:** [GitHub Repository](https://github.com/Bigzzz0/interplanetary-network)
 
 ---
 
 ## 📜 Certificates & Achievements
-| หลักสูตร / ใบเซอร์ (Certificate Name) | ตัวอย่างภาพใบประกาศ |
+| หลักสูตร / ใบเซอร์ (Certificate Name) |  |
 | :--- | :--- |
-| **Cisco: Introduction to Cybersecurity** | <img src="URL_หรือ_Path_ของรูป" width="350"> |
-| **[ชื่อใบเซอร์อื่นๆ ของคุณ]** | <img src="URL_หรือ_Path_ของรูป" width="350"> |
+| **Pre1 Computer Networks - Getting Started with Cisco Packet Tracer** 
+| <img src="Resourse\Screenshot 2026-03-30 201159.png" width="500"> |
+
 
 ---
 
