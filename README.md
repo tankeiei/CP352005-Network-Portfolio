@@ -35,7 +35,7 @@
 | 2 | Secure & Scalable VLAN Design (Router-on-a-Stick) | [คลิกเพื่อดู](https://docs.google.com/document/d/1bFA9APAwBCsOpFJhOlSNbxDys74AXxjFP4qOcadhXrc/edit?fbclid=IwY2xjawO3PolleHRuA2FlbQIxMABicmlkETF0MlhMUkVQSmt2aVhvR05Bc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlEoIx6iUN6ZVR4mulwv2AH5w-Cie80AwyZLbolLR7PQc2EyFdBRUYzp4dlE_aem_9jRi0m5jJVdWuxRy9Roj0w&tab=t.0) |
 | 3 | MIME File Transfer over Router-on-a-Stick with Wireshark Analysis | [คลิกเพื่อดู](https://docs.google.com/document/d/1f4ruHR8qC6pV63fiCZ2uI9psKrLqej3c8NhWxdt11gA/edit?usp=sharing) |
 | 4 | Simulated Internet (10.10.0.0/16) & Private LANs with Stateful vs Stateless Services | [คลิกเพื่อดู](https://docs.google.com/document/d/1IFeSFYEjTHPoRWvstWsnvtbRHp8uLUmtbv5R79g6G7k/edit?usp=sharing) |
-| 5 | [ระบุชื่อแล็บ] | [คลิกเพื่อดู] |
+| 5 |  Internet Edge + ISP Serial WAN + Week 03 Microservices Lab Report | [คลิกเพื่อดู](https://docs.google.com/document/d/1S5N9W2macoUa047YxNgecGuPtwXni2xlMV3vQlu78FM/edit?tab=t.0) |
 
 
 
