@@ -25,6 +25,9 @@
 
 ## 👥 งานกลุ่มและห้องปฏิบัติการ (Group Assignments & Labs)
 
+### 🌐 New Network
+🔗 **ลิงก์โฟลเดอร์งาน:** [Google Drive: New Network](https://drive.google.com/drive/folders/1dihtiNvFQU63HGW2Hp-H6kuR08QEkleC)
+
 ### 🛠️ Group Labs
 | Lab No. | รายชื่อปฏิบัติการ (Lab Title) | ลิงก์ผลงาน |
 | :---: | :--- | :--- |
