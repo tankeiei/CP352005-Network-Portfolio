@@ -5,29 +5,50 @@
 
 ---
 
-## 📑 รายการงานที่ส่ง (Assignments)
+## 📑 รายการงานรายบุคคล (Personal Assignments)
+*รวบรวมงานที่ได้รับมอบหมายรายบุคคลตลอดภาคการศึกษา*
 
-| ลำดับ | หัวข้องาน | ลิงก์รายงาน / ผลงาน |
+| ลำดับ | หัวข้องาน (Topic) | ลิงก์รายงาน / ผลงาน |
 | :--- | :--- | :--- |
-| 1 | Essay about Network | [คลิกเพื่อดูงาน](ใส่ลิงก์ Google Docs ของคุณ) |
-| 2 | Assignment 2 | [คลิกเพื่อดูงาน](ใส่ลิงก์ Google Docs ของคุณ) |
-| 3 | Assignment 3 | [คลิกเพื่อดูงาน](ใส่ลิงก์ Google Docs ของคุณ) |
+| 1 | Essay about Network Concepts | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
+| 2 | IP Addressing & Subnetting | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
+| 3 | Network Configuration Lab | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
+| 4 | [ระบุชื่องานเพิ่มเติม] | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
 
 ---
 
 ## 💻 Network Programming (Week 1-10)
-*บันทึกผลการเรียนรู้และการเขียนโปรแกรม*
-- [x] **Week 1-5:** [คลิกเพื่อดูบันทึก](ใส่ลิงก์)
-- [ ] **Week 6-10:** (กำลังดำเนินการ...)
+*บันทึกผลการเรียนรู้และการเขียนโปรแกรมด้าน Network*
+- [x] **Week 1-5:** พื้นฐาน Python & Network Basics [ดูบันทึก](ใส่ลิงก์)
+- [ ] **Week 6-10:** Socket Programming & Advanced Topics (In Progress)
 
 ---
 
-## 👥 Group Lab Projects
-- **Lab Week 1-5:** [คลิกเพื่อดูรายละเอียดงานกลุ่ม](ใส่ลิงก์)
+## 👥 งานกลุ่มและห้องปฏิบัติการ (Group Assignments & Labs)
+*โปรเจกต์และการทำงานร่วมกับเพื่อนในทีม*
+
+### 🛠️ Group Labs (Week 1-5)
+- **Lab 1:** [ระบุชื่อแล็บ] - [ลิงก์ตรวจงาน]
+- **Lab 2:** [ระบุชื่อแล็บ] - [ลิงก์ตรวจงาน]
+
+### 📁 Group Assignment
+- **Project Name:** [ระบุชื่อโปรเจกต์กลุ่มของคุณ]
+- **Description:** [อธิบายสั้นๆ ว่างานกลุ่มนี้ทำเกี่ยวกับอะไร เช่น ออกแบบระบบเครือข่ายภายในองค์กร]
+- **Link:** [ลิงก์รายงานกลุ่ม / สไลด์นำเสนอ]
 
 ---
 
-## 🛠 Skills & Tools
-- **Network Simulation:** Cisco Packet Tracer, Wireshark
-- **Programming:** Python, SQL
-- **Hardware:** PC Build & Troubleshooting
+## 🏆 Final Project
+*โปรเจกต์จบรายวิชา (สรุปองค์ความรู้ทั้งหมด)*
+
+- **Topic:** [ระบุหัวข้อ Final Project]
+- **Status:** ⏳ กำลังดำเนินการ (Planned / In Progress)
+- **Detail:** [ใส่คำอธิบายสั้นๆ ว่าตั้งใจจะทำอะไร หรือใช้เทคโนโลยีอะไรบ้าง]
+- **Repository/Link:** [ลิงก์ไฟล์โปรเจกต์]
+
+---
+
+## 🛠 Skills & Tools Used
+- **Network Simulation:** Cisco Packet Tracer, Wireshark, GNS3
+- **Programming:** Python, SQL (Database Management)
+- **Hardware:** PC Build, Hardware Troubleshooting & Maintenance
