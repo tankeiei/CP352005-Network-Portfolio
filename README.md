@@ -6,10 +6,8 @@
 ---
 
 ## 📑 รายการงานรายบุคคล (Personal Assignments)
-*รวบรวมงานที่ได้รับมอบหมายรายบุคคลตลอดภาคการศึกษา*
-
 | ลำดับ | หัวข้องาน (Topic) | ลิงก์รายงาน / ผลงาน |
-| :--- | :--- | :--- |
+| :---: | :--- | :--- |
 | 1 | Essay about Network Concepts | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
 | 2 | IP Addressing & Subnetting | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
 | 3 | Network Configuration Lab | [คลิกเพื่อดูงาน](ใส่ลิงก์) |
@@ -18,37 +16,46 @@
 ---
 
 ## 💻 Network Programming (Week 1-10)
-*บันทึกผลการเรียนรู้และการเขียนโปรแกรมด้าน Network*
-- [x] **Week 1-5:** พื้นฐาน Python & Network Basics [ดูบันทึก](ใส่ลิงก์)
-- [ ] **Week 6-10:** Socket Programming & Advanced Topics (In Progress)
+| สัปดาห์ | เนื้อหาการเรียนรู้ (Topic) | สถานะ (Status) | ลิงก์บันทึก |
+| :---: | :--- | :---: | :--- |
+| 1-5 | พื้นฐาน Python & Network Basics | ✅ Done | [คลิกเพื่อดู](ใส่ลิงก์) |
+| 6-10 | Socket Programming & Advanced | ⏳ In Progress | [คลิกเพื่อดู](ใส่ลิงก์) |
 
 ---
 
 ## 👥 งานกลุ่มและห้องปฏิบัติการ (Group Assignments & Labs)
-*โปรเจกต์และการทำงานร่วมกับเพื่อนในทีม*
 
-### 🛠️ Group Labs (Week 1-5)
-- **Lab 1:** [ระบุชื่อแล็บ] - [ลิงก์ตรวจงาน]
-- **Lab 2:** [ระบุชื่อแล็บ] - [ลิงก์ตรวจงาน]
+### 🛠️ Group Labs
+| Lab No. | รายชื่อปฏิบัติการ (Lab Title) | สมาชิกในทีม | ลิงก์ตรวจงาน |
+| :---: | :--- | :--- | :--- |
+| 1 | [ระบุชื่อแล็บ] | [ชื่อเพื่อนในกลุ่ม] | [คลิกเพื่อดู] |
+| 2 | [ระบุชื่อแล็บ] | [ชื่อเพื่อนในกลุ่ม] | [คลิกเพื่อดู] |
 
-### 📁 Group Assignment
-- **Project Name:** [ระบุชื่อโปรเจกต์กลุ่มของคุณ]
-- **Description:** [อธิบายสั้นๆ ว่างานกลุ่มนี้ทำเกี่ยวกับอะไร เช่น ออกแบบระบบเครือข่ายภายในองค์กร]
-- **Link:** [ลิงก์รายงานกลุ่ม / สไลด์นำเสนอ]
+### 📁 Group Assignment (Project)
+| หัวข้อ | รายละเอียด (Description) | ลิงก์รายงาน / ผลงาน |
+| :--- | :--- | :--- |
+| **Project Name** | [ระบุชื่อโปรเจกต์กลุ่ม] | [คลิกเพื่อดูงานกลุ่ม] |
+| **Task** | [อธิบายหน้าที่ของคุณในกลุ่มสั้นๆ] | - |
 
 ---
 
 ## 🏆 Final Project
-*โปรเจกต์จบรายวิชา (สรุปองค์ความรู้ทั้งหมด)*
+| หัวข้อ (Topic) | รายละเอียดโปรเจกต์ (Details) | สถานะ / ลิงก์ |
+| :--- | :--- | :--- |
+| **Project Title** | [ระบุชื่อโปรเจกต์จบรายวิชา] | ⏳ กำลังดำเนินการ |
+| **Tools Used** | [เช่น Python, Cisco Packet Tracer, SQL] | [Link To Repo] |
 
-- **Topic:** [ระบุหัวข้อ Final Project]
-- **Status:** ⏳ กำลังดำเนินการ (Planned / In Progress)
-- **Detail:** [ใส่คำอธิบายสั้นๆ ว่าตั้งใจจะทำอะไร หรือใช้เทคโนโลยีอะไรบ้าง]
-- **Repository/Link:** [ลิงก์ไฟล์โปรเจกต์]
+---
+
+## 📜 Certificates & Achievements
+| หลักสูตร / ใบเซอร์ (Certificate Name) | ตัวอย่างภาพใบประกาศ |
+| :--- | :--- |
+| **Cisco: Introduction to Cybersecurity** | <img src="ลิงก์รูปภาพหรือPathไฟล์" width="300"> |
+| **[ชื่อใบเซอร์อื่นๆ ของคุณ]** | <img src="ลิงก์รูปภาพหรือPathไฟล์" width="300"> |
 
 ---
 
 ## 🛠 Skills & Tools Used
-- **Network Simulation:** Cisco Packet Tracer, Wireshark, GNS3
+- **Network Simulation:** Cisco Packet Tracer, Wireshark
 - **Programming:** Python, SQL (Database Management)
-- **Hardware:** PC Build, Hardware Troubleshooting & Maintenance
+- **Hardware:** PC Build & Maintenance, Hardware Troubleshooting
