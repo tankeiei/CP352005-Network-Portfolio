@@ -61,6 +61,13 @@
 | **Pre1 Computer Networks - Getting Started with Cisco Packet Tracer** 
 | <img src="Resourse\Screenshot 2026-03-30 201159.png" width="500"> |
 
+|  |  |
+| :--- | :--- |
+| **[CP352005 2/25] CCNA1: Introduction to Networks** 
+| <img src="Resourse\Screenshot 2026-03-31 234632.png" width="500"> |
+
+
+
 
 | Check point exam |  |
 | :--- | :--- |
